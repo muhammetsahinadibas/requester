@@ -4,7 +4,7 @@ Fuzzing for websites, a request tool that searches for value within the site, fe
 
 ------------------------------------------------------------------------------
 
---Make a request to the site
+- *Make a request to the site*
 - Number Fuzzing 
 - Fetch source code
 - Search for value within the site
