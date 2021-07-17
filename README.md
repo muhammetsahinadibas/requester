@@ -3,6 +3,11 @@
 Fuzzing for websites, a request tool that searches for value within the site, fetches source code
 
 ------------------------------------------------------------------------------
+
+[TR]
+Web sitelerine numara fuzzing'i yapabilir. İstek yapılan URL'nin kaynak kodunu getirebilir. Kaynak kodu içerisinde kelime, cümle arayabilir.
+
+------------------------------------------------------------------------------
 Questions:
 -     Enter the URL you want to request:
 -     Do you want to add a number increasing by the amount of the request into the URL ? (Yes=1 , No=2): 
